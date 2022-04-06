@@ -1,0 +1,3 @@
+Hello world!
+This is my text file for the second task.
+Hope I will survive.
